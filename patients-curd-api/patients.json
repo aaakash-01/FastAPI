@@ -1,0 +1,11 @@
+{"p001": {"name": "Ravi Sharma", "age": 35, "gender": "Male", "condition": "Hypertension", "admission_date": "2025-06-20", "city": "lucknow", "weight": 68.5, "height": 1.8},
+  "p002": {"name": "Meera Joshi", "age": 42, "gender": "Female", "condition": "Type 2 Diabetes", "admission_date": "2025-06-18", "city": "lucknow", "weight": 68.5, "height": 1.8},
+  "p003": {"name": "Amit Desai", "age": 28, "gender": "Male", "condition": "Asthma", "admission_date": "2025-06-22", "city": "lucknow", "weight": 68.5, "height": 1.8},
+  "p004": {"name": "Sonal Verma", "age": 63, "gender": "Female", "condition": "Arthritis", "admission_date": "2025-06-15", "city": "lucknow", "weight": 68.5, "height": 1.8},
+  "p005": {"name": "Arjun Kapoor", "age": 50, "gender": "Male", "condition": "Coronary Artery Disease", "admission_date": "2025-06-19", "city": "lucknow", "weight": 68.5, "height": 1.8},
+  "p006": {"name": "Pooja Yadav", "age": 30, "gender": "Female", "condition": "Anemia", "admission_date": "2025-06-21", "city": "lucknow", "weight": 68.5, "height": 1.8},
+  "p007": {"name": "Karan Bhatia", "age": 46, "gender": "Male", "condition": "Chronic Back Pain", "admission_date": "2025-06-16", "city": "lucknow", "weight": 68.5, "height": 1.8},
+  "p008": {"name": "Neha Patil", "age": 39, "gender": "Female", "condition": "Hypothyroidism", "admission_date": "2025-06-14", "city": "lucknow", "weight": 68.5, "height": 1.8},
+  "p009": {"name": "Rohit Nair", "age": 55, "gender": "Male", "condition": "COPD", "admission_date": "2025-06-13", "city": "lucknow", "weight": 68.5, "height": 1.8},
+  "p010": {"name": "Divya Shukla", "age": 25, "gender": "Female", "condition": "Migraine", "admission_date": "2025-06-17", "city": "lucknow", "weight": 68.5, "height": 1.8},
+  "P011": {"name": "Apsara", "city": "Basti", "age": 21, "gender":"female", "height": 1.65, "weight": 56.0, "bmi": 20.57, "verdict": "Normal"}}
